@@ -1,0 +1,6 @@
+.tile {
+  border-radius: 10px;
+  background-color: white;
+  width: fit-content;
+  padding: 3px 10px;
+}
