@@ -1,0 +1,18 @@
+.tile {
+  border-radius: 10px;
+  background-color: white;
+  width: fit-content;
+  padding: 5px 10px;
+}
+
+.blur {
+  filter: blur(4px);
+}
+
+.id {
+  padding-right: 5px;
+}
+
+.sprite {
+  padding-top: 5px;
+}
