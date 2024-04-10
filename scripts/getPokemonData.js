@@ -1,3 +1,10 @@
+/*
+ * To run this script type
+ * ```
+ * node ./scripts/getPokemonData.js
+ * ```
+ */
+
 async function fetchPokemon(generationNumber) {
   //  gather urls from the api for the given generation
   const pokeJson = await fetch(
