@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import PokemonName from './components/PokemonName';
-import pokemonNames from './data/pokemon_names.json';
+import generation1Data from './data/generation_1.json';
 import { useRef, useState } from 'react';
 
 function App() {
@@ -24,12 +24,12 @@ function App() {
     <div className="App">
       <div className="nameGrid">
         {/* displays all pokemon names from mapped data */}
-        {pokemonNames.map((name) => (
+        {generation1Data.map((pokemon) => (
           // PokeName component imported
           <PokemonName
-            name={name}
+            name={pokemon.name}
             // if the name has been attempted, the name will be unblurred
-            isBlurred={!attempts.includes(name)}
+            isBlurred={!attempts.includes(pokemon.name)}
           ></PokemonName>
         ))}
       </div>
