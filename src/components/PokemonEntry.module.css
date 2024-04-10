@@ -8,3 +8,7 @@
 .blur {
   filter: blur(4px);
 }
+
+.id {
+  padding-right: 5px;
+}
