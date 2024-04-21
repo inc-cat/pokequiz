@@ -1,0 +1,722 @@
+[
+  {
+    "id": 906,
+    "name": "sprigatito",
+    "type": ["grass"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/906.png"
+  },
+  {
+    "id": 907,
+    "name": "floragato",
+    "type": ["grass"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/907.png"
+  },
+  {
+    "id": 908,
+    "name": "meowscarada",
+    "type": ["grass", "dark"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/908.png"
+  },
+  {
+    "id": 909,
+    "name": "fuecoco",
+    "type": ["fire"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/909.png"
+  },
+  {
+    "id": 910,
+    "name": "crocalor",
+    "type": ["fire"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/910.png"
+  },
+  {
+    "id": 911,
+    "name": "skeledirge",
+    "type": ["fire", "ghost"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/911.png"
+  },
+  {
+    "id": 912,
+    "name": "quaxly",
+    "type": ["water"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/912.png"
+  },
+  {
+    "id": 913,
+    "name": "quaxwell",
+    "type": ["water"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/913.png"
+  },
+  {
+    "id": 914,
+    "name": "quaquaval",
+    "type": ["water", "fighting"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/914.png"
+  },
+  {
+    "id": 915,
+    "name": "lechonk",
+    "type": ["normal"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/915.png"
+  },
+  {
+    "id": 916,
+    "name": "oinkologne",
+    "type": ["normal"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/916.png"
+  },
+  {
+    "id": 917,
+    "name": "tarountula",
+    "type": ["bug"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/917.png"
+  },
+  {
+    "id": 918,
+    "name": "spidops",
+    "type": ["bug"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/918.png"
+  },
+  {
+    "id": 919,
+    "name": "nymble",
+    "type": ["bug"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/919.png"
+  },
+  {
+    "id": 920,
+    "name": "lokix",
+    "type": ["bug", "dark"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/920.png"
+  },
+  {
+    "id": 921,
+    "name": "pawmi",
+    "type": ["electric"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/921.png"
+  },
+  {
+    "id": 922,
+    "name": "pawmo",
+    "type": ["electric", "fighting"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/922.png"
+  },
+  {
+    "id": 923,
+    "name": "pawmot",
+    "type": ["electric", "fighting"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/923.png"
+  },
+  {
+    "id": 924,
+    "name": "tandemaus",
+    "type": ["normal"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/924.png"
+  },
+  {
+    "id": 925,
+    "name": "maushold",
+    "type": ["normal"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/925.png"
+  },
+  {
+    "id": 926,
+    "name": "fidough",
+    "type": ["fairy"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/926.png"
+  },
+  {
+    "id": 927,
+    "name": "dachsbun",
+    "type": ["fairy"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/927.png"
+  },
+  {
+    "id": 928,
+    "name": "smoliv",
+    "type": ["grass", "normal"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/928.png"
+  },
+  {
+    "id": 929,
+    "name": "dolliv",
+    "type": ["grass", "normal"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/929.png"
+  },
+  {
+    "id": 930,
+    "name": "arboliva",
+    "type": ["grass", "normal"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/930.png"
+  },
+  {
+    "id": 931,
+    "name": "squawkabilly",
+    "type": ["normal", "flying"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/931.png"
+  },
+  {
+    "id": 932,
+    "name": "nacli",
+    "type": ["rock"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/932.png"
+  },
+  {
+    "id": 933,
+    "name": "naclstack",
+    "type": ["rock"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/933.png"
+  },
+  {
+    "id": 934,
+    "name": "garganacl",
+    "type": ["rock"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/934.png"
+  },
+  {
+    "id": 935,
+    "name": "charcadet",
+    "type": ["fire"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/935.png"
+  },
+  {
+    "id": 936,
+    "name": "armarouge",
+    "type": ["fire", "psychic"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/936.png"
+  },
+  {
+    "id": 937,
+    "name": "ceruledge",
+    "type": ["fire", "ghost"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/937.png"
+  },
+  {
+    "id": 938,
+    "name": "tadbulb",
+    "type": ["electric"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/938.png"
+  },
+  {
+    "id": 939,
+    "name": "bellibolt",
+    "type": ["electric"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/939.png"
+  },
+  {
+    "id": 940,
+    "name": "wattrel",
+    "type": ["electric", "flying"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/940.png"
+  },
+  {
+    "id": 941,
+    "name": "kilowattrel",
+    "type": ["electric", "flying"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/941.png"
+  },
+  {
+    "id": 942,
+    "name": "maschiff",
+    "type": ["dark"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/942.png"
+  },
+  {
+    "id": 943,
+    "name": "mabosstiff",
+    "type": ["dark"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/943.png"
+  },
+  {
+    "id": 944,
+    "name": "shroodle",
+    "type": ["poison", "normal"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/944.png"
+  },
+  {
+    "id": 945,
+    "name": "grafaiai",
+    "type": ["poison", "normal"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/945.png"
+  },
+  {
+    "id": 946,
+    "name": "bramblin",
+    "type": ["grass", "ghost"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/946.png"
+  },
+  {
+    "id": 947,
+    "name": "brambleghast",
+    "type": ["grass", "ghost"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/947.png"
+  },
+  {
+    "id": 948,
+    "name": "toedscool",
+    "type": ["ground", "grass"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/948.png"
+  },
+  {
+    "id": 949,
+    "name": "toedscruel",
+    "type": ["ground", "grass"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/949.png"
+  },
+  {
+    "id": 950,
+    "name": "klawf",
+    "type": ["rock"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/950.png"
+  },
+  {
+    "id": 951,
+    "name": "capsakid",
+    "type": ["grass"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/951.png"
+  },
+  {
+    "id": 952,
+    "name": "scovillain",
+    "type": ["grass", "fire"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/952.png"
+  },
+  {
+    "id": 953,
+    "name": "rellor",
+    "type": ["bug"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/953.png"
+  },
+  {
+    "id": 954,
+    "name": "rabsca",
+    "type": ["bug", "psychic"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/954.png"
+  },
+  {
+    "id": 955,
+    "name": "flittle",
+    "type": ["psychic"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/955.png"
+  },
+  {
+    "id": 956,
+    "name": "espathra",
+    "type": ["psychic"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/956.png"
+  },
+  {
+    "id": 957,
+    "name": "tinkatink",
+    "type": ["fairy", "steel"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/957.png"
+  },
+  {
+    "id": 958,
+    "name": "tinkatuff",
+    "type": ["fairy", "steel"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/958.png"
+  },
+  {
+    "id": 959,
+    "name": "tinkaton",
+    "type": ["fairy", "steel"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/959.png"
+  },
+  {
+    "id": 960,
+    "name": "wiglett",
+    "type": ["water"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/960.png"
+  },
+  {
+    "id": 961,
+    "name": "wugtrio",
+    "type": ["water"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/961.png"
+  },
+  {
+    "id": 962,
+    "name": "bombirdier",
+    "type": ["flying", "dark"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/962.png"
+  },
+  {
+    "id": 963,
+    "name": "finizen",
+    "type": ["water"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/963.png"
+  },
+  {
+    "id": 964,
+    "name": "palafin",
+    "type": ["water"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/964.png"
+  },
+  {
+    "id": 965,
+    "name": "varoom",
+    "type": ["steel", "poison"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/965.png"
+  },
+  {
+    "id": 966,
+    "name": "revavroom",
+    "type": ["steel", "poison"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/966.png"
+  },
+  {
+    "id": 967,
+    "name": "cyclizar",
+    "type": ["dragon", "normal"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/967.png"
+  },
+  {
+    "id": 968,
+    "name": "orthworm",
+    "type": ["steel"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/968.png"
+  },
+  {
+    "id": 969,
+    "name": "glimmet",
+    "type": ["rock", "poison"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/969.png"
+  },
+  {
+    "id": 970,
+    "name": "glimmora",
+    "type": ["rock", "poison"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/970.png"
+  },
+  {
+    "id": 971,
+    "name": "greavard",
+    "type": ["ghost"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/971.png"
+  },
+  {
+    "id": 972,
+    "name": "houndstone",
+    "type": ["ghost"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/972.png"
+  },
+  {
+    "id": 973,
+    "name": "flamigo",
+    "type": ["flying", "fighting"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/973.png"
+  },
+  {
+    "id": 974,
+    "name": "cetoddle",
+    "type": ["ice"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/974.png"
+  },
+  {
+    "id": 975,
+    "name": "cetitan",
+    "type": ["ice"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/975.png"
+  },
+  {
+    "id": 976,
+    "name": "veluza",
+    "type": ["water", "psychic"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/976.png"
+  },
+  {
+    "id": 977,
+    "name": "dondozo",
+    "type": ["water"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/977.png"
+  },
+  {
+    "id": 978,
+    "name": "tatsugiri",
+    "type": ["dragon", "water"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/978.png"
+  },
+  {
+    "id": 979,
+    "name": "annihilape",
+    "type": ["fighting", "ghost"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/979.png"
+  },
+  {
+    "id": 980,
+    "name": "clodsire",
+    "type": ["poison", "ground"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/980.png"
+  },
+  {
+    "id": 981,
+    "name": "farigiraf",
+    "type": ["normal", "psychic"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/981.png"
+  },
+  {
+    "id": 982,
+    "name": "dudunsparce",
+    "type": ["normal"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/982.png"
+  },
+  {
+    "id": 983,
+    "name": "kingambit",
+    "type": ["dark", "steel"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/983.png"
+  },
+  {
+    "id": 984,
+    "name": "great-tusk",
+    "type": ["ground", "fighting"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/984.png"
+  },
+  {
+    "id": 985,
+    "name": "scream-tail",
+    "type": ["fairy", "psychic"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/985.png"
+  },
+  {
+    "id": 986,
+    "name": "brute-bonnet",
+    "type": ["grass", "dark"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/986.png"
+  },
+  {
+    "id": 987,
+    "name": "flutter-mane",
+    "type": ["ghost", "fairy"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/987.png"
+  },
+  {
+    "id": 988,
+    "name": "slither-wing",
+    "type": ["bug", "fighting"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/988.png"
+  },
+  {
+    "id": 989,
+    "name": "sandy-shocks",
+    "type": ["electric", "ground"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/989.png"
+  },
+  {
+    "id": 990,
+    "name": "iron-treads",
+    "type": ["ground", "steel"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/990.png"
+  },
+  {
+    "id": 991,
+    "name": "iron-bundle",
+    "type": ["ice", "water"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/991.png"
+  },
+  {
+    "id": 992,
+    "name": "iron-hands",
+    "type": ["fighting", "electric"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/992.png"
+  },
+  {
+    "id": 993,
+    "name": "iron-jugulis",
+    "type": ["dark", "flying"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/993.png"
+  },
+  {
+    "id": 994,
+    "name": "iron-moth",
+    "type": ["fire", "poison"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/994.png"
+  },
+  {
+    "id": 995,
+    "name": "iron-thorns",
+    "type": ["rock", "electric"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/995.png"
+  },
+  {
+    "id": 996,
+    "name": "frigibax",
+    "type": ["dragon", "ice"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/996.png"
+  },
+  {
+    "id": 997,
+    "name": "arctibax",
+    "type": ["dragon", "ice"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/997.png"
+  },
+  {
+    "id": 998,
+    "name": "baxcalibur",
+    "type": ["dragon", "ice"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/998.png"
+  },
+  {
+    "id": 999,
+    "name": "gimmighoul",
+    "type": ["ghost"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/999.png"
+  },
+  {
+    "id": 1000,
+    "name": "gholdengo",
+    "type": ["steel", "ghost"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1000.png"
+  },
+  {
+    "id": 1001,
+    "name": "wo-chien",
+    "type": ["dark", "grass"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1001.png"
+  },
+  {
+    "id": 1002,
+    "name": "chien-pao",
+    "type": ["dark", "ice"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1002.png"
+  },
+  {
+    "id": 1003,
+    "name": "ting-lu",
+    "type": ["dark", "ground"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1003.png"
+  },
+  {
+    "id": 1004,
+    "name": "chi-yu",
+    "type": ["dark", "fire"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1004.png"
+  },
+  {
+    "id": 1005,
+    "name": "roaring-moon",
+    "type": ["dragon", "dark"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1005.png"
+  },
+  {
+    "id": 1006,
+    "name": "iron-valiant",
+    "type": ["fairy", "fighting"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1006.png"
+  },
+  {
+    "id": 1007,
+    "name": "koraidon",
+    "type": ["fighting", "dragon"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1007.png"
+  },
+  {
+    "id": 1008,
+    "name": "miraidon",
+    "type": ["electric", "dragon"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1008.png"
+  },
+  {
+    "id": 1009,
+    "name": "walking-wake",
+    "type": ["water", "dragon"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1009.png"
+  },
+  {
+    "id": 1010,
+    "name": "iron-leaves",
+    "type": ["grass", "psychic"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1010.png"
+  },
+  {
+    "id": 1011,
+    "name": "dipplin",
+    "type": ["grass", "dragon"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1011.png"
+  },
+  {
+    "id": 1012,
+    "name": "poltchageist",
+    "type": ["grass", "ghost"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1012.png"
+  },
+  {
+    "id": 1013,
+    "name": "sinistcha",
+    "type": ["grass", "ghost"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1013.png"
+  },
+  {
+    "id": 1014,
+    "name": "okidogi",
+    "type": ["poison", "fighting"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1014.png"
+  },
+  {
+    "id": 1015,
+    "name": "munkidori",
+    "type": ["poison", "psychic"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1015.png"
+  },
+  {
+    "id": 1016,
+    "name": "fezandipiti",
+    "type": ["poison", "fairy"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1016.png"
+  },
+  {
+    "id": 1017,
+    "name": "ogerpon",
+    "type": ["grass"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1017.png"
+  },
+  {
+    "id": 1018,
+    "name": "archaludon",
+    "type": ["steel", "dragon"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1018.png"
+  },
+  {
+    "id": 1019,
+    "name": "hydrapple",
+    "type": ["grass", "dragon"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1019.png"
+  },
+  {
+    "id": 1020,
+    "name": "gouging-fire",
+    "type": ["fire", "dragon"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1020.png"
+  },
+  {
+    "id": 1021,
+    "name": "raging-bolt",
+    "type": ["electric", "dragon"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1021.png"
+  },
+  {
+    "id": 1022,
+    "name": "iron-boulder",
+    "type": ["rock", "psychic"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1022.png"
+  },
+  {
+    "id": 1023,
+    "name": "iron-crown",
+    "type": ["steel", "psychic"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1023.png"
+  },
+  {
+    "id": 1024,
+    "name": "terapagos",
+    "type": ["normal"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1024.png"
+  },
+  {
+    "id": 1025,
+    "name": "pecharunt",
+    "type": ["poison", "ghost"],
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1025.png"
+  }
+]
