@@ -5,8 +5,22 @@
   padding: 5px 10px;
 }
 
-.blur {
+.noSelection {
+  -webkit-user-select: none; /* Safari */
+  -ms-user-select: none; /* IE 10 and IE 11 */
+  user-select: none; /* Standard syntax */
+}
+
+.easy {
   filter: blur(4px);
+}
+
+.medium {
+  filter: blur(8px);
+}
+
+.hard {
+  filter: blur(100px);
 }
 
 .id {

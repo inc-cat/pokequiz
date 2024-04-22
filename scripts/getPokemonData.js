@@ -59,8 +59,8 @@ async function fetchPokemon(generationNumber) {
   // write to json file
   const json = JSON.stringify(pokemonTypeData);
   const fs = require('fs/promises');
-  await fs.writeFile('myjsonfile.json', json, 'utf8');
+  await fs.writeFile(`./src/data/generation_${generationNumber}`, json, 'utf8');
   console.log('success!');
 }
 
-fetchPokemon(1);
+fetchPokemon(process.argv[2]);
