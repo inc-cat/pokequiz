@@ -17,18 +17,18 @@ export default function PokemonEntry(props) {
   }
   return (
     <div className={styles.tile}>
-      <span className={styles.id}>#{pokemon.id}</span>
-      {/* if isBlurred is true, styles.blur will be applied, otherwise nothing will be applied */}
-      <span className={props.isBlurred ? diffStyle : ''}>{pokemon.name}</span>
-      <span
-        className={(props.isBlurred ? diffStyle : '') + ' ' + styles.sprite}
-      >
+      <div>
+        <span className={styles.id}>#{pokemon.id}</span>
+        {/* if isBlurred is true, styles.blur will be applied, otherwise nothing will be applied */}
+        <span className={props.isBlurred ? diffStyle : ''}>{pokemon.name}</span>
+      </div>
+      <div className={(props.isBlurred ? diffStyle : '') + ' ' + styles.sprite}>
         <img
           src={pokemon.img}
           draggable="false"
           alt="A mysterious Pokémon"
         ></img>
-      </span>
+      </div>
     </div>
   );
 }
