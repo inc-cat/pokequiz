@@ -1,13 +1,17 @@
 .App {
   text-align: center;
   background-color: lightgrey;
+  align-content: center;
 }
 
 .nameGrid {
-  display: grid;
+  display: flex;
+  flex-wrap: wrap;
   grid-template-columns: repeat(10, 1fr);
   gap: 10px;
   height: 900px;
+  align-items: stretch;
+  flex-direction: row;
   overflow-y: scroll;
 }
 
