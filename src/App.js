@@ -21,7 +21,7 @@ function App() {
     event.preventDefault();
     // read the input name from form
     const name = inputRef.current.value;
-    // add name to list of attempts
+    // exemptions for replacing inputs to match with json data names
     const formatExemptions = {
       mrMime: ['mr. mime', 'mr mime', 'mrmime'],
       nidoran: [
@@ -41,8 +41,10 @@ function App() {
       mrRime: ['mr. rime', 'mr rime', 'mrrime'],
     };
 
+    // regex to replace spaces with dashes to be submitted
     let regEx = name.replace(/ /g, '-');
 
+    // add name to list of attempts
     if (formatExemptions.mrMime.includes(name.toLowerCase())) {
       setAttempts([...attempts, 'mr-mime']);
     } else if (formatExemptions.nidoran.includes(name.toLowerCase())) {
@@ -113,6 +115,7 @@ function App() {
     console.log('Click disabled!');
   };
 
+  // fills list to show all pokemon for users who give up
   const giveUp = function () {
     let allUnlocked = userGenerationSelection.map(function (pokemon) {
       return pokemon.name;
@@ -120,6 +123,7 @@ function App() {
     setAttempts(allUnlocked);
   };
 
+  // clears list for users who want to restart
   const reset = function () {
     setAttempts([]);
   };
