@@ -22,7 +22,51 @@ function App() {
     // read the input name from form
     const name = inputRef.current.value;
     // add name to list of attempts
-    setAttempts((attempts) => [...attempts, name]);
+    const formatExemptions = {
+      mrMime: ['mr. mime', 'mr mime', 'mrmime'],
+      nidoran: [
+        'nidoran',
+        'nidoran-female',
+        'nidoran-male',
+        'nidoran female',
+        'nidoran male',
+        'nidoran f',
+        'nidoran m',
+      ],
+      mimeJr: ['mime jr.', 'mime junior', 'mime jr'],
+      porygonZ: ['porygonz', 'porygon z'],
+      jangmoO: ['jangmo', 'jangmo o'],
+      hakamoO: ['hakamo', 'hakamo o'],
+      kommoO: ['kommo o', 'kommo'],
+      mrRime: ['mr. rime', 'mr rime', 'mrrime'],
+    };
+
+    let regEx = name.replace(/ /g, '-');
+
+    if (formatExemptions.mrMime.includes(name.toLowerCase())) {
+      setAttempts([...attempts, 'mr-mime']);
+    } else if (formatExemptions.nidoran.includes(name.toLowerCase())) {
+      setAttempts([...attempts, 'nidoran-f', 'nidoran-m']);
+    } else if (formatExemptions.mimeJr.includes(name.toLowerCase())) {
+      setAttempts([...attempts, 'mime-jr']);
+    } else if (formatExemptions.porygonZ.includes(name.toLowerCase())) {
+      setAttempts([...attempts, 'porygon-z']);
+    } else if (formatExemptions.jangmoO.includes(name.toLowerCase())) {
+      setAttempts([...attempts, 'jangmo-o']);
+    } else if (formatExemptions.hakamoO.includes(name.toLowerCase())) {
+      setAttempts([...attempts, 'hakamo-o']);
+    } else if (formatExemptions.kommoO.includes(name.toLowerCase())) {
+      setAttempts([...attempts, 'kommo-o']);
+    } else if (formatExemptions.mrRime.includes(name.toLowerCase())) {
+      setAttempts([...attempts, 'mr-rime']);
+    } else if (formatExemptions.mimeJr.includes(name.toLowerCase())) {
+      setAttempts([...attempts, 'mime-jr']);
+    } else if (name.includes(' ')) {
+      setAttempts((attempts) => [...attempts, regEx]);
+    } else {
+      setAttempts([...attempts, name]);
+    }
+
     // clear input box
     inputRef.current.value = '';
   }
