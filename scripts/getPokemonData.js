@@ -41,9 +41,10 @@ async function fetchPokemon(generationNumber) {
   const resolvedPokemonJson = await Promise.all(pokemonJson);
 
   // extract the data we want from each variety
-  const pokemonTypeData = resolvedPokemonJson.map(function (entry) {
-    let name = entry.name;
-    let id = entry.id;
+  const pokemonTypeData = resolvedPokemonJson.map(function (entry, i) {
+    let species = resolvedSpecies[i];
+    let name = species.name;
+    let id = species.id;
     let img = entry.sprites.front_default;
     const typeList = entry.types.map(function (type) {
       return type.type.name;
@@ -59,7 +60,11 @@ async function fetchPokemon(generationNumber) {
   // write to json file
   const json = JSON.stringify(pokemonTypeData);
   const fs = require('fs/promises');
-  await fs.writeFile(`./src/data/generation_${generationNumber}`, json, 'utf8');
+  await fs.writeFile(
+    `./src/data/generation_${generationNumber}.json`,
+    json,
+    'utf8'
+  );
   console.log('success!');
 }
 

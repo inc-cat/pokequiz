@@ -169,7 +169,7 @@
   },
   {
     "id": 678,
-    "name": "meowstic-male",
+    "name": "meowstic",
     "type": ["psychic"],
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/678.png"
   },
@@ -187,7 +187,7 @@
   },
   {
     "id": 681,
-    "name": "aegislash-shield",
+    "name": "aegislash",
     "type": ["steel", "ghost"],
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/681.png"
   },
@@ -361,13 +361,13 @@
   },
   {
     "id": 710,
-    "name": "pumpkaboo-average",
+    "name": "pumpkaboo",
     "type": ["ghost", "grass"],
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/710.png"
   },
   {
     "id": 711,
-    "name": "gourgeist-average",
+    "name": "gourgeist",
     "type": ["ghost", "grass"],
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/711.png"
   },
@@ -409,7 +409,7 @@
   },
   {
     "id": 718,
-    "name": "zygarde-50",
+    "name": "zygarde",
     "type": ["dragon", "ground"],
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/718.png"
   },

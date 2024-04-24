@@ -115,7 +115,7 @@
   },
   {
     "id": 741,
-    "name": "oricorio-baile",
+    "name": "oricorio",
     "type": ["fire", "flying"],
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/741.png"
   },
@@ -139,13 +139,13 @@
   },
   {
     "id": 745,
-    "name": "lycanroc-midday",
+    "name": "lycanroc",
     "type": ["rock"],
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/745.png"
   },
   {
     "id": 746,
-    "name": "wishiwashi-solo",
+    "name": "wishiwashi",
     "type": ["water"],
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/746.png"
   },
@@ -313,7 +313,7 @@
   },
   {
     "id": 774,
-    "name": "minior-red-meteor",
+    "name": "minior",
     "type": ["rock", "flying"],
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/774.png"
   },
@@ -337,7 +337,7 @@
   },
   {
     "id": 778,
-    "name": "mimikyu-disguised",
+    "name": "mimikyu",
     "type": ["ghost", "fairy"],
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/778.png"
   },
