@@ -118,7 +118,8 @@ function App() {
           ></PokemonEntry>
         ))}
       </div>
-      <div>
+      <p> </p>
+      <div className="footer">
         {/* for the form the user types their attempts into */}
         <form onSubmit={onSubmit} className="guessing">
           {/* text is read by inputRef to be used in the onSubmit */}
