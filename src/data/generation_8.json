@@ -235,7 +235,7 @@
   },
   {
     "id": 849,
-    "name": "toxtricity-amped",
+    "name": "toxtricity",
     "type": ["electric", "poison"],
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/849.png"
   },
@@ -391,19 +391,19 @@
   },
   {
     "id": 875,
-    "name": "eiscue-ice",
+    "name": "eiscue",
     "type": ["ice"],
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/875.png"
   },
   {
     "id": 876,
-    "name": "indeedee-male",
+    "name": "indeedee",
     "type": ["psychic", "normal"],
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/876.png"
   },
   {
     "id": 877,
-    "name": "morpeko-full-belly",
+    "name": "morpeko",
     "type": ["electric", "dark"],
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/877.png"
   },
@@ -493,7 +493,7 @@
   },
   {
     "id": 892,
-    "name": "urshifu-single-strike",
+    "name": "urshifu",
     "type": ["fighting", "dark"],
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/892.png"
   },
@@ -553,7 +553,7 @@
   },
   {
     "id": 902,
-    "name": "basculegion-male",
+    "name": "basculegion",
     "type": ["water", "ghost"],
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/902.png"
   },
@@ -571,7 +571,7 @@
   },
   {
     "id": 905,
-    "name": "enamorus-incarnate",
+    "name": "enamorus",
     "type": ["fairy", "flying"],
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/905.png"
   }

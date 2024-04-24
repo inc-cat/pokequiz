@@ -157,7 +157,7 @@
   },
   {
     "id": 413,
-    "name": "wormadam-plant",
+    "name": "wormadam",
     "type": ["bug", "grass"],
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/413.png"
   },
@@ -601,7 +601,7 @@
   },
   {
     "id": 487,
-    "name": "giratina-altered",
+    "name": "giratina",
     "type": ["ghost", "dragon"],
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/487.png"
   },
@@ -631,7 +631,7 @@
   },
   {
     "id": 492,
-    "name": "shaymin-land",
+    "name": "shaymin",
     "type": ["grass"],
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/492.png"
   },

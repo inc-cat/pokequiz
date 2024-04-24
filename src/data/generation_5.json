@@ -337,7 +337,7 @@
   },
   {
     "id": 550,
-    "name": "basculin-red-striped",
+    "name": "basculin",
     "type": ["water"],
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/550.png"
   },
@@ -367,7 +367,7 @@
   },
   {
     "id": 555,
-    "name": "darmanitan-standard",
+    "name": "darmanitan",
     "type": ["fire"],
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/555.png"
   },
@@ -883,13 +883,13 @@
   },
   {
     "id": 641,
-    "name": "tornadus-incarnate",
+    "name": "tornadus",
     "type": ["flying"],
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/641.png"
   },
   {
     "id": 642,
-    "name": "thundurus-incarnate",
+    "name": "thundurus",
     "type": ["electric", "flying"],
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/642.png"
   },
@@ -907,7 +907,7 @@
   },
   {
     "id": 645,
-    "name": "landorus-incarnate",
+    "name": "landorus",
     "type": ["ground", "flying"],
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/645.png"
   },
@@ -919,13 +919,13 @@
   },
   {
     "id": 647,
-    "name": "keldeo-ordinary",
+    "name": "keldeo",
     "type": ["water", "fighting"],
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/647.png"
   },
   {
     "id": 648,
-    "name": "meloetta-aria",
+    "name": "meloetta",
     "type": ["normal", "psychic"],
     "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/648.png"
   },

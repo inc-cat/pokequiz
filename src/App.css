@@ -9,12 +9,21 @@
   flex-wrap: wrap;
   grid-template-columns: repeat(10, 1fr);
   gap: 10px;
-  height: 900px;
   align-items: stretch;
   flex-direction: row;
   overflow-y: scroll;
+  padding-bottom: 30px;
 }
 
 .guessing {
   display: inline-block;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
 }
