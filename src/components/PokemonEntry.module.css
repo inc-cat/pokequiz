@@ -1,8 +1,11 @@
 .tile {
   border-radius: 10px;
   background-color: white;
-  width: auto;
+  max-width: 150px;
+
+  flex-grow: 1;
   padding: 5px 10px;
+  width: auto;
 }
 
 .noSelection {

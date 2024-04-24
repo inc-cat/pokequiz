@@ -69,6 +69,17 @@ function App() {
     console.log('Click disabled!');
   };
 
+  const giveUp = function () {
+    let allUnlocked = userGenerationSelection.map(function (pokemon) {
+      return pokemon.name;
+    });
+    setAttempts(allUnlocked);
+  };
+
+  const reset = function () {
+    setAttempts([]);
+  };
+
   return (
     <div className="App">
       {/* options for user game mode (generation and difficulty) */}
@@ -109,11 +120,17 @@ function App() {
       </div>
       <div>
         {/* for the form the user types their attempts into */}
-        <form onSubmit={onSubmit}>
+        <form onSubmit={onSubmit} className="guessing">
           {/* text is read by inputRef to be used in the onSubmit */}
           <input type="text" ref={inputRef} placeholder="guess" />
           <input class="styled" type="submit" value="Submit?" />
         </form>
+        <button type="button" onClick={giveUp}>
+          Give up?
+        </button>
+        <button type="button" onClick={reset}>
+          Reset?
+        </button>
       </div>
     </div>
   );

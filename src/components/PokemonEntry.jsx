@@ -12,7 +12,6 @@ export default function PokemonEntry(props) {
   } else if (diff === '3') {
     diffStyle = `${styles.hard} ${styles.noSelection}`;
   } else {
-    console.log('banana', diff);
     diffStyle = `${styles.easy} ${styles.noSelection}`;
   }
   return (
