@@ -166,7 +166,6 @@ function App() {
           ></PokemonEntry>
         ))}
       </div>
-      <p> </p>
       <div className="footer">
         {/* for the form the user types their attempts into */}
         <form onSubmit={onSubmit} className="guessing">

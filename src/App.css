@@ -12,6 +12,7 @@
   align-items: stretch;
   flex-direction: row;
   overflow-y: scroll;
+  padding-bottom: 30px;
 }
 
 .guessing {
